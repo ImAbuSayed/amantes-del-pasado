@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-del-pasado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Amantes del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-del-pasado/) |
+| **Get License** | [Commercial Licensing for Amantes del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-del-pasado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `aa2aea529a6fab9f9160321963dfab1f107e679941e43cc803532826458bfa77` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `b082bcbddd8bb60d995d6f00646ece90cbc8ed15ddb540defaba8fc32f944c39` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

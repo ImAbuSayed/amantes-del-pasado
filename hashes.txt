@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Amantes 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:58:10.641652 | `v1` | `aa2aea529a6fab9f9160321963dfab1f107e679941e43cc803532826458bfa77` | `f1c20a65002a2b634fee8cde5ac5eba833a8aa6e15bac02a1ca73f63570a1236` | `2026-06-20_amantes-del-pasado-v1.txt` |
+| 2026-06-20T03:35:07.217377 | `v2` | `b082bcbddd8bb60d995d6f00646ece90cbc8ed15ddb540defaba8fc32f944c39` | `cbe10e2fe5fd6e00c98f7bf1e5ad106a6cdbde0fade5e3f58c8e3793a9a55cae` | `2026-06-20_amantes-del-pasado-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
