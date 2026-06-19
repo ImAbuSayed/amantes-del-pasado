@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Amantes del pasado |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-del-pasado/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Request Licensing for Amantes del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-del-pasado/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Baby, la noche pide que apaguemos la luz
-> No hay otra que brille en la disco como tú
-> Yo sé que el pasado nos dejó con la sed
-> Pero hoy tengo el truco para hacerte ceder
+> Cien noches sin dormir, pensando en tu calor
+> Un beso que promete y me quita el dolor
+> Tus ojos son veneno, me pierdo en su interior
+> Amantes del pasado, bailando este error
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
