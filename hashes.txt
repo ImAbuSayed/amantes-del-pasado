@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amantes del pasado
+
+This log tracks the cryptographic history and versioning for the song **Amantes del pasado** (amantes-del-pasado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:58:10.641652 | `v1` | `aa2aea529a6fab9f9160321963dfab1f107e679941e43cc803532826458bfa77` | `f1c20a65002a2b634fee8cde5ac5eba833a8aa6e15bac02a1ca73f63570a1236` | `2026-06-20_amantes-del-pasado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
